@@ -1,0 +1,42 @@
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.0",
+    "body": [
+      {
+        "type": "TextBlock",
+        "size": "default",
+        "isSubtle": "yes",
+        "text": "Select the models you'd like to summarize github.com issues with",
+        "wrap": true,
+        "maxLines": 0
+      }
+    ],
+    "actions": [
+      {
+        "type": "Action.Submit",
+        "title": "LSA-clustering",
+        "data": "LSA-clustering"
+      },
+      {
+        "type": "Action.Submit",
+        "title": "Summy",
+        "data": "Summy"
+      },
+      {
+        "type": "Action.Submit",
+        "title": "BertSum",
+        "data": "BertSum"
+      },
+      {
+        "type": "Action.Submit",
+        "title": "SummaRuNNer",
+        "data": "SummaRuNNer"
+      },
+      {
+        "type": "Action.Submit",
+        "title": "siatl",
+        "data": "siatl"
+      }
+    ]
+  }
