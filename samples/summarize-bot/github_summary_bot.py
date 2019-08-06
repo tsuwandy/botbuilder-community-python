@@ -1,18 +1,7 @@
-# from sys import exit
+
 import os
-# import corenlp
-# from rake_nltk import Rake
-# from gensim.models import TfidfModel
-# from gensim.corpora import Dictionary
-# from string import punctuation
-# from nltk.corpus import stopwords
-# from nltk import word_tokenize
-# from nltk.corpus import reuters
-# import numpy as np
 import spacy
 from config import DefaultConfig
-
-# from LSA_Model.model import ExtractiveSummarizer
 
 nlp = spacy.load('en_core_web_lg')
 os.environ['CORENLP_HOME'] = 'C:/Data/Stanford/stanford-corenlp-full-2018-10-05'

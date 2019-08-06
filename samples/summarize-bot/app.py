@@ -1,4 +1,6 @@
-#!/usr/bin/env python3ex
+#!/usr/bin/env python
+
+
 """
 This sample shows how to create a bot that demonstrates the following:
     Use one of the pretrained extractive document summarization models to summarize

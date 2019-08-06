@@ -16,7 +16,6 @@ Note: Be sure to install the **64-bit** version of Anaconda for the purposes of 
 In your local folder, open an **Anaconda prompt** and run the following commands:
 
 ```bash
-cd 101.corebot-bert-bidaf
 conda create -n botsample python=3.6 anaconda -y
 conda activate botsample # source conda 
 
