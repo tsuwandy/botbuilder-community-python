@@ -1,5 +1,3 @@
-# Copyright (c) Microsoft Corporation. All rights reserved.
-# Licensed under the MIT License.
 """Github.com issues summarization dialog."""
 
 from botbuilder.dialogs import WaterfallDialog, WaterfallStepContext, DialogTurnResult

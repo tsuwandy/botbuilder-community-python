@@ -1,5 +1,3 @@
-# Copyright (c) Microsoft Corporation. All rights reserved.
-# Licensed under the MIT License.
 """Implements bot Activity handler."""
 
 from botbuilder.core import ActivityHandler, ConversationState, UserState, TurnContext

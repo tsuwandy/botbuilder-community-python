@@ -1,7 +1,4 @@
 #!/usr/bin/env python3ex
-# Copyright (c) Microsoft Corporation. All rights reserved.
-# Licensed under the MIT License.
-
 """
 This sample shows how to create a bot that demonstrates the following:
     Use one of the pretrained extractive document summarization models to summarize
